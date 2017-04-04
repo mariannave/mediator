@@ -6,7 +6,7 @@ import mediator.MensagemMediator;
 
 public class Cliente {
 	public static void main(String[] args) {
-		MensagemMediator mediador = new MensagemMediator();
+		TransfereMediator mediador = new TransfereMediator();
 
 		BBColleague bb = new BBColleague(mediador);
 		ItauColleague itau = new ItauColleague(mediador);
