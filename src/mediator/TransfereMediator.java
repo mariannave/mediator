@@ -4,11 +4,11 @@ import java.util.ArrayList;
 
 import colleague.Colleague;
 
-public class MensagemMediator implements Mediator {
+public class TransfereMediator implements Mediator {
 
 	protected ArrayList<Colleague> bancos;
 
-	public MensagemMediator() {
+	public TransfereMediator() {
 		bancos = new ArrayList<Colleague>();
 	}
 
