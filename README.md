@@ -1,5 +1,5 @@
-# mediator
-Padrão comportamento - Mediator
+# Mediator
+Padrão de comportamento - Mediator
 
 
 
